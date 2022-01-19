@@ -56,6 +56,10 @@ $ php artisan serve
 | /api/get-all-category |  get all catgeory (JSON)|
 | /get-all-blogs        |  get all blogs (JSON)   |    
 
+| PATH | #1 | #2 |
+| :---: | :---: | :---: |
+| /dashboard | 301 | 283 |
+  
 
 
 
