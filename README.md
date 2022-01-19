@@ -19,7 +19,8 @@ $ cp .env.example .env
 
 ## Edit .env file
 
-
+<p>Open your .env file and change the database name (DB_DATABASE) to whatever you have, username (DB_USERNAME) and password (DB_PASSWORD) field correspond to your configuration.
+</p>
 ```python
 #Change this data according to the name of your databases 
 DB_CONNECTION=mysql
@@ -30,8 +31,7 @@ DB_USERNAME=root
 DB_PASSWORD=
 )
 
-<p>Open your .env file and change the database name (DB_DATABASE) to whatever you have, username (DB_USERNAME) and password (DB_PASSWORD) field correspond to your configuration.
-</p>
+
 
 ## Run this commands
 ```bash
