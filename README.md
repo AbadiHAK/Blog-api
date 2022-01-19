@@ -5,7 +5,7 @@
 
 
 
-
+<br>
 
 ## Installation
 
@@ -22,7 +22,7 @@ $ cp .env.example .env
 <p>Open your .env file and change the database name (DB_DATABASE) to whatever you have, username (DB_USERNAME) and password (DB_PASSWORD) field correspond to your configuration.
 </p>
 
-'''python
+```python
 #Change this data according to the name of your databases 
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
@@ -48,9 +48,7 @@ $ php artisan serve
 
 ## Usage
 
-### Variables
-
-**Here the features of the variables of the Fatoora class will be explained**
+**Paths**
 
 | PATH                  | 
 |-----------------------|:-----------------------:|
@@ -59,7 +57,6 @@ $ php artisan serve
 | /get-all-blogs        |  get all blogs (JSON)   |    
 
 
-<!-- | name here | feature here| -->
 
 
 <br>
