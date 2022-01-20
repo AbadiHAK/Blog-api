@@ -53,7 +53,7 @@ $ php artisan serve
 
 | PATH |   | 
 | :---: | :---: | 
-| /dashboard | api/get-all-category | 
+| /dashboard | Dashboard | 
 | /api/get-all-category | get all catgeory (JSON) |
 | /get-all-blogs | get all blogs (JSON) |
   
